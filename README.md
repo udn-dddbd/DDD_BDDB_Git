@@ -4,7 +4,9 @@ by Shawn
 
 ## 事前準備
 
-從GitHub上取得知識庫的遠端Repo，在Windows或Mac上使用，若沒有特別使用習慣建議使用`VisualStudioCode`搭配GitHub插件，以及閱讀[Git相關知識](#github與git的基本操作)
+從GitHub上取得知識庫的遠端Repo，在Windows或Mac上使用，若沒有特別使用習慣建議使用`VisualStudioCode(VScode)`搭配GitHub插件，以及閱讀[Git相關知識](#github與git的基本操作)。
+
+除了檢視知識庫內的必要資訊外，也可在在經過討論後編輯更新知識庫的內容，一起擴充BD知識！
 
 ### 安裝VScode
 
@@ -76,15 +78,9 @@ by Shawn
      git status
      ```
 
-   - 如果有更新或變更，您可以使用 `git pull` 來將線上最新的更改拉取到本地：
+   - 如果上方指令出現下方提示，記得檢查是否進入正確受到Git控制的資料夾中
+   ![未找到Git控制資料](git_plugin02.png)
 
-     ```bash
-     git pull
-     ```
-
-   - 如果撰寫或想要將資料更新到線上，必須先`git pull`確認與線上更新同步後，再至：
-
-     ```bash
-     git pull
-     ```
+   - 如果有更新或變更，統一使用`VScode`的`Git`插件，在確認要變更的資料中，按下「+」號後，在原始檔控制說明本次更新訊息後提交即可
+   ![Git插件@VScode](git_plugin01.png)
 
