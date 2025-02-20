@@ -17,7 +17,7 @@ by Shawn
 
 ## GitHub與Git的基本操作
 
-基礎的GitHub與Git相關操作，已經有GitHub帳號者，請提供註冊GitHub的Email給[DDD_DB管理帳號](mailto:shawn.chou@udngroup.com)或寄件至`2020dddbd@gmail.com`加入協作存取行列。
+基礎的GitHub與Git相關操作，已經有GitHub帳號者，請提供註冊GitHub的Email給[DDD_DB管理帳號](mailto:2020dddbd@gmail.com)或寄件至`2020dddbd@gmail.com`加入協作存取行列。
 
 ### 1. 註冊GitHub帳號
 
